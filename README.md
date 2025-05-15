@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **adharsh9243@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
