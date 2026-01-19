@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **python, HTML, CSS**
+- 💬 Ask me about **python, HTML, CSS, JavaScript, SQL**
 
-- 📫 How to reach me **adharsh9243@gmail.com**
+- 📫 How to reach me **gaddam.adharsh@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
