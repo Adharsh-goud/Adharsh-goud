@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adharsh goud</h1>
-<h3 align="center">A passionate frontend developer from Hyderabad, India</h3>
+<h3 align="center">Full Stack Enthusiast from Hyderabad, India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh-goud&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh-goud" /> </p>
